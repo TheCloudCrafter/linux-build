@@ -1,5 +1,10 @@
-# Desc
+# Descption
 My notes for building my linux machine
+
+# Boot manager
+https://www.rodsbooks.com/refind/
+
+
 # Gaming
 
 ## SteamVR
